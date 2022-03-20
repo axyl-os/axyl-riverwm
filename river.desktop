@@ -2,4 +2,4 @@
 Name=River
 Comment=A dynamic tiling Wayland compositor
 Exec=river
-Type=XSession
+Type=Application
